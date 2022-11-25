@@ -3,6 +3,7 @@
 ---
 
 # C-929 Digital Garden
+Last Updated at `= this.file.mtime`
 
 <div style="display: flex; cursor: pointer;"> 
 	<a href="https://c929-song.super.site/" target="_blank"> 
@@ -18,7 +19,6 @@
 > [!Attention] 试运行
 > 仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **C-929 Database** 。
 > 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
-
 
 ---
 
@@ -69,3 +69,10 @@
 ## 每日记录｜年度存档
 
 ### [[Publish/2022年度存档\|2022年度存档]]
+
+
+<style>
+body{
+text-font: Avenir;
+}
+</style>
