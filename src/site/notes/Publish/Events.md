@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-permalink":"/Events","permalink":"/Events/"}
 ---
 
-# Events
+# 活动目录
 
-## 晚会/演出
+### 晚会/演出
 
 - [[300 Events/301 Lives/2022咪咕音乐盛典\|2022咪咕音乐盛典]]
 - [[300 Events/301 Lives/2020 TMEA\|2020 TMEA]]
@@ -40,7 +40,7 @@
 - [[300 Events/301 Lives/逐梦苍穹·飞天30年\|逐梦苍穹·飞天30年]]
 
 
-## 综艺/节目
+### 综艺/节目
 
 - [[300 Events/302 Shows/新手驾到\|新手驾到]]
 - [[300 Events/302 Shows/2021北京卫视环球跨年冰雪盛典\|2021北京卫视环球跨年冰雪盛典]]
@@ -66,7 +66,7 @@
 - [[300 Events/302 Shows/时光音乐会\|时光音乐会]]
 
 
-## 数据
+### 数据
 
 - [[300 Events/303 Data/QQ音乐MV巅峰榜\|QQ音乐MV巅峰榜]]
 - [[300 Events/303 Data/腾讯音乐榜\|腾讯音乐榜]]
@@ -75,7 +75,7 @@
 - [[300 Events/303 Data/腾讯音乐由你榜\|腾讯音乐由你榜]]
 
 
-## 其他
+### 其他
 
 - [[300 Events/304 Others/CCTV-15《音乐周刊》\|CCTV-15《音乐周刊》]]
 - [[300 Events/304 Others/COP14\|COP14]]
