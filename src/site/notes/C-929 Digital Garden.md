@@ -3,6 +3,15 @@
 ---
 
 # C-929 Digital Garden
+
+<div style="display: flex; justify-content: center; cursor: pointer;"> 
+	<a href="https://c929-song.super.site/" target="_blank"> 
+		<button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> 
+			回到 C-929 Database 
+		</button> 
+	</a>
+ </div>
+
 ## [[000 Inbox/002 Drafts/test\|test]] 
 
 this is a publish test
