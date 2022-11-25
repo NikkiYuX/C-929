@@ -72,7 +72,10 @@ Last Updated at `= this.file.mtime`
 
 
 <style>
-body{
-text-font: Avenir;
-}
+h1 {  color: blue;  
+  font-family: verdana;  
+  font-size: 300%;}  
+p {  color: red;  
+  font-family: courier;  
+  font-size: 160%;}
 </style>
