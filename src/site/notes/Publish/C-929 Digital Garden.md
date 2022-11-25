@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/publish/c-929-digital-garden/","tags":"gardenEntry"}
 ---
 
-# C-929 Digital Garden
  
 <div style="display: flex; cursor: pointer;"> 
 	<a href="https://c929-song.super.site/" target="_blank"> 
@@ -68,4 +67,4 @@
 ---
 | Last Updated at      |
 | -------------------- |
-| 2022-11-26 05:19 AM  |
+| 2022-11-26 05:29 AM  |
