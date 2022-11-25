@@ -3,7 +3,8 @@
 ---
 
 
-# <% tp.file.title %>
+<< [[{{yesterday}}\|{{yesterday}}]] | [[{{tomorrow}}\|{{tomorrow}}]] >>
+# {{date}}
 
 ## 资讯站 记录
 
