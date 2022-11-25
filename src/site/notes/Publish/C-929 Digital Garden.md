@@ -4,11 +4,6 @@
 
 # C-929 Digital Garden
  
-| Last Updated at      |
-| -------------------- |
-| 2022-11-26 04:53 AM  |
-
-
 <div style="display: flex; cursor: pointer;"> 
 	<a href="https://c929-song.super.site/" target="_blank"> 
 		<button style=" font-size: 16px; padding: 8px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> 
@@ -19,14 +14,7 @@
 
 ---
 
-
-> [!Attention] 试运行
-> 仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **C-929 Database** 。
-> 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
-
----
-
-## [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]] |  [[Publish/Tags\|话题目录]] ｜ [[Publish/Location\|行程]]
+## [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]]  |   [[Publish/Tags\|话题目录]] ｜ [[Publish/Location\|行程]]
 
 ---
 
@@ -71,8 +59,13 @@
 ### [[Publish/2022年度存档\|2022年度存档]]
 
 
-<style>
-h1 { 
-  font-size: 300%;
-  }  
-</style>
+---
+
+> [!Info] 试运行
+> 仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **C-929 Database** 。
+> 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
+
+
+| Last Updated at      |
+| -------------------- |
+| 2022-11-26 05:10 AM  |
