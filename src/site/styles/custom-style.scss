@@ -7,16 +7,10 @@ body {
     ***/
     .content {
         font-size: 14px;
-    }
-    
-:root{
-    --background-primary: black;
-    --background-secondary: black;
-    --text-normal: #E1E1E1;
-    --text-accent: #8DB8EC;
-    --file-margins: 32px;
-}
-
+        font-family: 'Avenir', sans-serif;
+        color: #E1E1E1;
+        --text-accent: #8DB8EC;
+        
 h1 {
     color: #ffb930;
 }
@@ -38,18 +32,6 @@ button {
     color: #E1E1E1;
     padding: 5px 15px;
 }
-
-.theme-dark {
-    background: var(--background-primary);
-    color: var(--text-normal);
-    font-family: 'Avenir', sans-serif;
-}
-
-.theme-light {
-    background: white;
-    color: black;
-    font-family: 'Avenir', sans-serif;
-}
-
+    }
 
 }
