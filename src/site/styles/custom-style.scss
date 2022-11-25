@@ -2,36 +2,18 @@ body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-    
-    background-color: black;
     ***/
+    background-color: black;
+    
     .content {
         font-size: 14px;
         font-family: 'Avenir', sans-serif;
         color: #E1E1E1;
         --text-accent: #8DB8EC;
+    }
         
-h1 {
+h1,h2,h3,h4 {
     color: #ffb930;
 }
-
-h2 {
-    color: #9e86c8;
-}
-
-h3 {
-    color: #b4d273;
-}
-
-h4 {
-    color: #6c99bb;
-}
-
-button {
-    border: none;
-    color: #E1E1E1;
-    padding: 5px 15px;
-}
-    }
-
+    
 }
