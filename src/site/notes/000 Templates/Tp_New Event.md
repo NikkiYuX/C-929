@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/是","permalink":"/是/"}
+{"dg-publish":true,"dg-permalink":"/<% tp.file.title %>","permalink":"/<% tp.file.title %>/"}
 ---
 
 # <% tp.file.title %>
