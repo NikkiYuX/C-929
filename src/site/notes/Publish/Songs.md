@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"/Songs","permalink":"/Songs/"}
 ---
 
-# Songs
+# 歌曲目录
 
 
 - [[200 Songs/有我\|有我]]
