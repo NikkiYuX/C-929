@@ -4,7 +4,7 @@
 
 # C-929 Digital Garden
 
-<div style="display: flex; justify-content: center; cursor: pointer;"> 
+<div style="display: flex; cursor: pointer;"> 
 	<a href="https://c929-song.super.site/" target="_blank"> 
 		<button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> 
 			回到 C-929 Database 
