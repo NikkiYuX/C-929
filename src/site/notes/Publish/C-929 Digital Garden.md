@@ -14,7 +14,7 @@
 
 ---
 
-## [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]]  |   [[Publish/Tags\|话题目录]] ｜ [[Publish/Location\|行程]]
+## [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]] ｜  [[Publish/Tags\|话题目录]] ｜ [[Publish/Location\|行程]]
 
 ---
 
@@ -68,4 +68,4 @@
 ---
 | Last Updated at      |
 | -------------------- |
-| 2022-11-26 05:15 AM  |
+| 2022-11-26 05:19 AM  |
