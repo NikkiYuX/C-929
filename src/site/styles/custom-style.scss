@@ -8,12 +8,12 @@ body {
     .content {
         font-size: 14px;
         font-family: 'Avenir', sans-serif;
-        color: #E1E1E1;
-        --text-accent: #8DB8EC;
+        
+        h1,h2,h3,h4 {
+            color: #ffb930;
+        }
     }
         
-h1,h2,h3,h4 {
-    color: #ffb930;
-}
+
     
 }
