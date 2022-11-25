@@ -3,11 +3,15 @@
 ---
 
 # C-929 Digital Garden
-Last Updated at `= this.file.mtime`
+ 
+| Last Updated at      |
+| -------------------- |
+| 2022-11-26 04:53 AM  |
+
 
 <div style="display: flex; cursor: pointer;"> 
 	<a href="https://c929-song.super.site/" target="_blank"> 
-		<button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> 
+		<button style=" font-size: 16px; padding: 8px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> 
 			回到 C-929 Database 
 		</button> 
 	</a>
@@ -22,11 +26,7 @@ Last Updated at `= this.file.mtime`
 
 ---
 
-## [[Publish/Songs\|歌曲目录]]
-
----
-
-## [[Publish/Events\|活动目录]]
+## [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]] |  [[Publish/Tags\|话题目录]] ｜ [[Publish/Location\|行程]]
 
 ---
 
@@ -72,10 +72,7 @@ Last Updated at `= this.file.mtime`
 
 
 <style>
-h1 {  color: blue;  
-  font-family: verdana;  
-  font-size: 300%;}  
-p {  color: red;  
-  font-family: courier;  
-  font-size: 160%;}
+h1 { 
+  font-size: 300%;
+  }  
 </style>
