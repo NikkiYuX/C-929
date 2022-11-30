@@ -4,11 +4,13 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
     ***/
     
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
     .content {
         font-size: 14px;
-        background: black;
-        font-family: 'Roboto', sans-serif;
-        color: white;
+        
     }
     
 }
