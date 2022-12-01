@@ -10,7 +10,7 @@
 ---
 
 ```expander
-/.*\[\[<% tp.file.title %>\]\].*(?:\r?\n(?!\r?\n).*)*/
+path:"100 Daily" /.*\[\[<% tp.file.title %>\]\].*(?:\r?\n(?!\r?\n).*)*/
 ## [[$filename]]
 $match
 ```
