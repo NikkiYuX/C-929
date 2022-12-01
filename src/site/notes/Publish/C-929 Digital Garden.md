@@ -11,14 +11,12 @@
 	</a>
  </div>
 
-| Last Updated at      |
-| -------------------- |
-| 2022-12-01 05:03 PM  |
-
-
 > [!Info] 试运行
 > 仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **[C-929 Database](https://c929-song.super.site/)** 。
 > 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
+
+- [[Publish/C-929 Digital Garden\|C-929 Digital Garden]]: Last Updated at 2022-12-01 05:06 PM 
+
 
 ---
 ### [[Publish/Songs\|歌曲目录]] ｜  [[Publish/Events\|活动目录]]
