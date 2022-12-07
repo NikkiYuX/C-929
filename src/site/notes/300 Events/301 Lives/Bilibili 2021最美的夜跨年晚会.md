@@ -5,7 +5,7 @@
 # Bilibili 2021最美的夜跨年晚会
 
 ## Linked Mentions
-- [[100 Daily/2022-03-31\|2022-03-31]]
+- [[100 Daily/2022-06-10\|2022-06-10]]
 
 
 ---
@@ -15,6 +15,7 @@ path:"100 Daily" /.*\[\[Bilibili 2021最美的夜跨年晚会\]\].*(?:\r?\n(?!\r
 ## [[$filename]]
 $match
 ```
-## [[100 Daily/2022-03-31\|2022-03-31]]
-[微博正文](https://m.weibo.cn/1774607565/4753085568652092) [[300 Events/301 Lives/Bilibili 2021最美的夜跨年晚会\|Bilibili 2021最美的夜跨年晚会]]-笃信/This Is Me
+## [[100 Daily/2022-06-10\|2022-06-10]]
+[微博正文](https://m.weibo.cn/6041830261/4778685464314001) [[300 Events/301 Lives/Bilibili 2021最美的夜跨年晚会\|Bilibili 2021最美的夜跨年晚会]]《just like fire》彩排
+
 <-->
