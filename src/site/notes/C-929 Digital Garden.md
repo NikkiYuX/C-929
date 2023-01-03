@@ -4,18 +4,10 @@
 
 # C-929 Digital Garden
 
-<div style="display: flex; cursor: pointer;">
-	<a href="https://c929-song.super.site/" target="_blank">
-		<button style=" font-size: 16px; padding: 8px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">
-			回到 C-929 Database
-		</button>
-	</a>
- </div>
-
 > ❗试运行
 > 仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **[C-929 Database](https://c929-song.super.site/)** 。
 > 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
-- Last Updated on 2023-01-03 02:39 PM 
+- Last Updated on 2023-01-03 02:41 PM 
 
 ---
 
@@ -40,8 +32,8 @@
 
 ## 每日记录 ｜ 年度存档
 
-### [[当年今日 发布记录\|当年今日 发布记录]]
 ### [[Publish/2022年度存档\|2022年度存档]]
+### [[当年今日 发布记录\|当年今日 发布记录]]
 
 ---
 
