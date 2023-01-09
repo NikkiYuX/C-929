@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/COP14","permalink":"/COP14/"}
+{"dg-publish":true,"dg-permalink":"/COP14","permalink":"/COP14/","title":"COP14"}
 ---
 
 # COP14
