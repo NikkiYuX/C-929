@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/全民K歌","permalink":"/全民K歌/"}
+{"dg-publish":true,"dg-permalink":"/全民K歌","permalink":"/全民K歌/","title":"全民K歌"}
 ---
 
 # 全民K歌
