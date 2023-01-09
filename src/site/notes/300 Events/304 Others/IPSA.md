@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/"}
+{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/","title":"IPSA"}
 ---
 
 # IPSA
@@ -63,6 +63,7 @@
 - [[100 Daily/2022-12-25\|2022-12-25]]
 - [[300 Events/304 Others/2022生日\|2022生日]]
 - [[100 Daily/2023-01-01\|2023-01-01]]
+- [[100 Daily/2023-01-05\|2023-01-05]]
 - [[300 Events/304 Others/IPSA直播\|IPSA直播]]
 - [[200 Songs/花开忘忧\|花开忘忧]]
 
