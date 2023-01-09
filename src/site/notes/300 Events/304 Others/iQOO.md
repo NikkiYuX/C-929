@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/"}
+{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO"}
 ---
 
 # iQOO
@@ -67,6 +67,8 @@
 - [[100 Daily/2023-01-01\|2023-01-01]]
 - [[100 Daily/2023-01-02\|2023-01-02]]
 - [[100 Daily/2023-01-03\|2023-01-03]]
+- [[100 Daily/2023-01-04\|2023-01-04]]
+- [[100 Daily/2023-01-07\|2023-01-07]]
 - [[300 Events/304 Others/出道8周年\|出道8周年]]
 - [[300 Events/302 Shows/天赐的声音\|天赐的声音]]
 - [[200 Songs/超级玩家\|超级玩家]]
@@ -250,5 +252,6 @@ $match
 [微博正文](https://m.weibo.cn/7769324117/4853487914977679) [[300 Events/304 Others/iQOO\|iQOO]]周边抽奖
 ## [[100 Daily/2023-01-03\|2023-01-03]]
 [微博正文](https://m.weibo.cn/7478855230/4853802400481666) [[300 Events/304 Others/iQOO\|iQOO]] Neo7口播
-<-->
+## [[100 Daily/2023-01-04\|2023-01-04]]
+[微博正文](https://m.weibo.cn/3318632542/4854127333743824) 天猫-[[300 Events/304 Others/iQOO\|iQOO]]开年小心机口播
 <-->
