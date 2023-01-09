@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/IPSA直播","permalink":"/IPSA直播/"}
+{"dg-publish":true,"dg-permalink":"/IPSA直播","permalink":"/IPSA直播/","title":"IPSA直播"}
 ---
 
 # IPSA直播
