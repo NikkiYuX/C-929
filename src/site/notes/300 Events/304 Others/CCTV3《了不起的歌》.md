@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV3了不起的歌","permalink":"/CCTV3了不起的歌/"}
+{"dg-publish":true,"dg-permalink":"/CCTV3了不起的歌","permalink":"/CCTV3了不起的歌/","title":"CCTV3《了不起的歌》"}
 ---
 
 # CCTV3《了不起的歌》
