@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/第二届TMEA腾讯音乐娱乐盛典","permalink":"/第二届TMEA腾讯音乐娱乐盛典/"}
+{"dg-publish":true,"dg-permalink":"/第二届TMEA腾讯音乐娱乐盛典","permalink":"/第二届TMEA腾讯音乐娱乐盛典/","title":"2020 TMEA"}
 ---
 
 # 第二届TMEA腾讯音乐娱乐盛典
