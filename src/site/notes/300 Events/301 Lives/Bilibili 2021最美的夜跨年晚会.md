@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Bilibili2021最美的夜跨年晚会","permalink":"/Bilibili2021最美的夜跨年晚会/"}
+{"dg-publish":true,"dg-permalink":"/Bilibili2021最美的夜跨年晚会","permalink":"/Bilibili2021最美的夜跨年晚会/","title":"Bilibili 2021最美的夜跨年晚会"}
 ---
 
 # Bilibili 2021最美的夜跨年晚会
