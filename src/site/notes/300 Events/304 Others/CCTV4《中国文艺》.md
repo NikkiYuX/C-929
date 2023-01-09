@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV4中国文艺","permalink":"/CCTV4中国文艺/"}
+{"dg-publish":true,"dg-permalink":"/CCTV4中国文艺","permalink":"/CCTV4中国文艺/","title":"CCTV4《中国文艺》"}
 ---
 
 # CCTV4《中国文艺》
