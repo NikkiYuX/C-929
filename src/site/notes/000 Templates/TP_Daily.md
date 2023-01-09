@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-templates/tp-daily/"}
+{"dg-publish":true,"permalink":"/000-templates/tp-daily/","title":{"{ date }":null}}
 ---
 
 
