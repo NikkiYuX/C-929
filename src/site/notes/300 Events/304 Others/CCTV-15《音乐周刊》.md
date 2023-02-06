@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV-15音乐周刊","permalink":"/CCTV-15音乐周刊/","title":"CCTV-15《音乐周刊》"}
+{"dg-publish":true,"dg-permalink":"/CCTV-15音乐周刊","permalink":"/CCTV-15音乐周刊/","title":"CCTV-15《音乐周刊》","tags":[null]}
 ---
 
 # CCTV-15《音乐周刊》
