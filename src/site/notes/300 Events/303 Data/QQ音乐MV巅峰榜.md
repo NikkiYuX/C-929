@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/QQ音乐MV巅峰榜","permalink":"/QQ音乐MV巅峰榜/","title":"QQ音乐MV巅峰榜"}
+{"dg-publish":true,"dg-permalink":"/QQ音乐MV巅峰榜","permalink":"/QQ音乐MV巅峰榜/","title":"QQ音乐MV巅峰榜","tags":[null]}
 ---
 
 # QQ音乐MV巅峰榜
