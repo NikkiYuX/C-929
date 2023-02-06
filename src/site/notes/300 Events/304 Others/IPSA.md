@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/","title":"IPSA"}
+{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/","title":"IPSA","tags":[null]}
 ---
 
 # IPSA
