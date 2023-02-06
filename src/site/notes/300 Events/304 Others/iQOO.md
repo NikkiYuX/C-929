@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO"}
+{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null]}
 ---
 
 # iQOO
