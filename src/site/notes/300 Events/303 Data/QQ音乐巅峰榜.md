@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/QQ音乐巅峰榜","permalink":"/QQ音乐巅峰榜/"}
+{"dg-publish":true,"dg-permalink":"/QQ音乐巅峰榜","permalink":"/QQ音乐巅峰榜/","created":"2022-12-29T18:23:38.000+08:00","updated":"2023-01-04T13:51:51.999+08:00"}
 ---
 
 # QQ音乐巅峰榜
