@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/F时尚画报","permalink":"/F时尚画报/"}
+{"dg-publish":true,"dg-permalink":"/F时尚画报","permalink":"/F时尚画报/","created":"2023-03-27T13:55:55.918+08:00","updated":"2023-03-27T13:55:56.345+08:00"}
 ---
 
 # F时尚画报
