@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/My Only","permalink":"/My Only/"}
+{"dg-publish":true,"dg-permalink":"/My Only","permalink":"/My Only/","created":"2022-12-22T15:40:33.000+08:00","updated":"2023-01-04T13:07:28.041+08:00"}
 ---
 
 # My Only
