@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/SoCool杂志","permalink":"/SoCool杂志/"}
+{"dg-publish":true,"dg-permalink":"/SoCool杂志","permalink":"/SoCool杂志/","created":"2022-12-22T15:24:10.000+08:00","updated":"2023-01-04T13:57:03.997+08:00"}
 ---
 
 # SoCool杂志
