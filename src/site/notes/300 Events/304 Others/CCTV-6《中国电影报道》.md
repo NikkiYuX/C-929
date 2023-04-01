@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV-6《中国电影报道》","permalink":"/CCTV-6《中国电影报道》/","title":"中国电影报道","tags":[null]}
+{"dg-publish":true,"dg-permalink":"/CCTV-6《中国电影报道》","permalink":"/CCTV-6《中国电影报道》/","title":"中国电影报道","tags":[null],"created":"2022-11-08T23:39:19.000+08:00","updated":"2023-02-01T16:44:11.227+08:00"}
 ---
 
 # CCTV-6《中国电影报道》
