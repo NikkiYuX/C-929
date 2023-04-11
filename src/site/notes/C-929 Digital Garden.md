@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C-929 Digital Garden/","tags":["gardenEntry"],"dgShowLocalGraph":true,"created":"2022-11-25T17:22:03.000+08:00","updated":"2023-04-11T12:26:45.093+08:00"}
+{"dg-publish":true,"permalink":"/C-929 Digital Garden/","tags":["gardenEntry"],"dgShowLocalGraph":true,"created":"2022-11-25T17:22:03.000+08:00","updated":"2023-04-11T14:47:05.977+08:00"}
 ---
 
 # C-929 Digital Garden
@@ -7,7 +7,7 @@
 > ❗试运行
 > 本质仅仅是个人小笔记，不保证准确，仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **[C-929 Database](https://c929-song.super.site/)** 。
 > 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
-- Last Updated on 2023-04-11 12:26 PM 
+- Last Updated on 2023-04-11 02:47 PM 
 
 ---
 
@@ -47,8 +47,7 @@
 
 | 文件类别                  | 收录条目数 |
 | --------------------- | ----- |
-| 001 Temp              | 12    |
-| 100 Daily             | 1545  |
+| 100 Daily             | 1557  |
 | 200 Songs             | 176   |
 | 300 Events/301 Lives  | 184   |
 | 300 Events/302 Shows  | 60    |
