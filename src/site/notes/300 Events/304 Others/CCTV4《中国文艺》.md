@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV4中国文艺","permalink":"/CCTV4中国文艺/","title":"CCTV4《中国文艺》","tags":[null],"created":"2022-11-09T19:13:33.000+08:00","updated":"2023-04-10T16:52:38.450+08:00"}
+{"dg-publish":true,"dg-permalink":"/CCTV4中国文艺","permalink":"/CCTV4中国文艺/","title":"CCTV4《中国文艺》","tags":[null],"created":"2022-11-09T19:13:33.000+08:00","updated":"2023-04-10T16:52:38.000+08:00"}
 ---
 
 # CCTV4《中国文艺》
