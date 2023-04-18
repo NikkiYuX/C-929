@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/百度百科idol进化论","permalink":"/百度百科idol进化论/","created":"2023-04-08T20:38:33.177+08:00","updated":"2023-04-10T17:13:43.536+08:00"}
+{"dg-publish":true,"dg-permalink":"/百度百科idol进化论","permalink":"/百度百科idol进化论/","created":"2023-04-08T20:38:33.000+08:00","updated":"2023-04-10T17:13:43.000+08:00"}
 ---
 
 # 百度百科idol进化论
