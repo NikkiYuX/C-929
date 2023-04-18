@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/爱逗IDOL","permalink":"/爱逗IDOL/","created":"2023-04-01T20:30:51.182+08:00","updated":"2023-04-10T17:11:53.464+08:00"}
+{"dg-publish":true,"dg-permalink":"/爱逗IDOL","permalink":"/爱逗IDOL/","created":"2023-04-01T20:30:51.000+08:00","updated":"2023-04-10T17:11:53.000+08:00"}
 ---
 
 # 爱逗IDOL
