@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Reaction","permalink":"/Reaction/","created":"2023-03-11T21:15:49.433+08:00","updated":"2023-04-10T17:19:35.469+08:00"}
+{"dg-publish":true,"dg-permalink":"/Reaction","permalink":"/Reaction/","created":"2023-03-11T21:15:49.000+08:00","updated":"2023-04-10T17:19:35.000+08:00"}
 ---
 
 # Reaction
