@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/","title":"IPSA","tags":[null],"created":"2022-11-08T23:38:57.000+08:00","updated":"2023-04-10T16:53:33.470+08:00"}
+{"dg-publish":true,"dg-permalink":"/IPSA","permalink":"/IPSA/","title":"IPSA","tags":[null],"created":"2022-11-08T23:38:57.000+08:00","updated":"2023-04-10T16:53:33.000+08:00"}
 ---
 
 # IPSA
@@ -79,6 +79,7 @@
 - [[100 Daily/2023-03-03\|2023-03-03]]
 - [[100 Daily/2023-03-06\|2023-03-06]]
 - [[100 Daily/2023-03-07\|2023-03-07]]
+- [[100 Daily/2023-04-14\|2023-04-14]]
 - [[300 Events/304 Others/IPSA直播\|IPSA直播]]
 - [[200 Songs/花开忘忧\|花开忘忧]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
