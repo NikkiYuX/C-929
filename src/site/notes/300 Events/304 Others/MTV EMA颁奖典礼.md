@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/MTV EMA颁奖典礼","permalink":"/MTV EMA颁奖典礼/","created":"2023-03-29T15:23:51.100+08:00","updated":"2023-04-10T16:54:06.527+08:00"}
+{"dg-publish":true,"dg-permalink":"/MTV EMA颁奖典礼","permalink":"/MTV EMA颁奖典礼/","created":"2023-03-29T15:23:51.000+08:00","updated":"2023-04-10T16:54:06.000+08:00"}
 ---
 
 # MTV EMA颁奖典礼
