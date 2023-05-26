@@ -18,6 +18,7 @@
 - [[200 Songs/美美\|美美]]
 - [[200 Songs/茧\|茧]]
 
+{ .block-language-dataview}
 
 ---
 
