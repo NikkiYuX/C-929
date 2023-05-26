@@ -11,6 +11,7 @@
 - [[200 Songs/茫茫星河\|茫茫星河]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
+{ .block-language-dataview}
 
 ---
 
