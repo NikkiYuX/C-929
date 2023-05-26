@@ -6,6 +6,7 @@
 
 ## Linked Mentions
 
+{ .block-language-dataview}
 
 ---
 
