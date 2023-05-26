@@ -28,6 +28,7 @@
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 - [[300 Events/304 Others/酷爱大牌\|酷爱大牌]]
 
+{ .block-language-dataview}
 
 ---
 
