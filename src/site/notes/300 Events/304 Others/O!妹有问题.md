@@ -7,6 +7,7 @@
 ## Linked Mentions
 - [[100 Daily/2019-10-10\|2019-10-10]]
 
+{ .block-language-dataview}
 
 ---
 
