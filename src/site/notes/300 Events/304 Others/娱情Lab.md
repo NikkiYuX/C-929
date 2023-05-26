@@ -11,6 +11,7 @@
 - [[100 Daily/2021-07-02\|2021-07-02]]
 - [[300 Events/302 Shows/上线吧！华彩少年\|上线吧！华彩少年]]
 
+{ .block-language-dataview}
 
 ---
 
