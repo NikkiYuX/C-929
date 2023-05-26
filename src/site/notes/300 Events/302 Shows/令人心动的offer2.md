@@ -69,6 +69,7 @@
 - [[300 Events/302 Shows/衣尚中国\|衣尚中国]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
+{ .block-language-dataview}
 
 ---
 
