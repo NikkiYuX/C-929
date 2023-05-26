@@ -9,6 +9,7 @@
 - [[100 Daily/2022-11-01\|2022-11-01]]
 - [[400 Topics/口播\|口播]]
 
+{ .block-language-dataview}
 
 ---
 
