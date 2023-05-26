@@ -20,6 +20,7 @@
 - [[300 Events/304 Others/我们的样子像极了爱情\|我们的样子像极了爱情]]
 - [[200 Songs/美美\|美美]]
 
+{ .block-language-dataview}
 
 ---
 
