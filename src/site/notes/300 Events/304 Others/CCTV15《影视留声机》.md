@@ -9,6 +9,7 @@
 - [[100 Daily/2022-03-17\|2022-03-17]]
 - [[200 Songs/星鱼\|星鱼]]
 
+{ .block-language-dataview}
 
 ---
 
