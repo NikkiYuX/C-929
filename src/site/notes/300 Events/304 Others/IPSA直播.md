@@ -16,6 +16,7 @@
 - [[300 Events/304 Others/IPSA\|IPSA]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
+{ .block-language-dataview}
 
 ---
 
