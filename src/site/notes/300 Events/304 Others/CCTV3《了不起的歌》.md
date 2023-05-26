@@ -8,6 +8,7 @@
 - [[100 Daily/2022-10-20\|2022-10-20]]
 - [[200 Songs/大鱼\|大鱼]]
 
+{ .block-language-dataview}
 
 ---
 
