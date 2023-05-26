@@ -17,6 +17,7 @@
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 - [[200 Songs/起风了\|起风了]]
 
+{ .block-language-dataview}
 
 ---
 
