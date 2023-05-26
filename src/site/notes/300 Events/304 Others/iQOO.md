@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-04-21T11:30:06.574+08:00"}
+{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-05-26T09:56:36.969+08:00"}
 ---
 
 # iQOO
@@ -88,6 +88,7 @@
 - [[100 Daily/2023-04-20\|2023-04-20]]
 - [[100 Daily/2023-04-21\|2023-04-21]]
 - [[100 Daily/2023-04-25\|2023-04-25]]
+- [[100 Daily/2023-05-23\|2023-05-23]]
 - [[300 Events/304 Others/出道8周年\|出道8周年]]
 - [[300 Events/302 Shows/天赐的声音\|天赐的声音]]
 - [[300 Events/304 Others/时尚先生\|时尚先生]]
@@ -96,6 +97,7 @@
 - [[200 Songs/超级玩家\|超级玩家]]
 - [[300 Events/304 Others/饿了么\|饿了么]]
 
+{ .block-language-dataview}
 
 ---
 
@@ -324,4 +326,12 @@ $match
 [微博正文](https://weibo.com/7478855230/4875145937945316) [[300 Events/304 Others/iQOO\|iQOO]]四周年口播(工作室)
 ## [[100 Daily/2023-04-20\|2023-04-20]]
 [微博正文](http://weibo.com/6378846558/MCPBMfxN4) [[300 Events/304 Others/iQOO\|iQOO]]立牌抽奖
+## [[100 Daily/2023-04-21\|2023-04-21]]
+[微博正文](http://weibo.com/6378846558/MD2wL1rkH) [[300 Events/304 Others/iQOO\|iQOO]]联络站-听歌福利抽奖
+## [[100 Daily/2023-04-25\|2023-04-25]]
+[微博正文](http://weibo.com/6466290670/MDDCA2T7r) [[300 Events/304 Others/iQOO\|iQOO]]新签照抽奖(xhs)
+## [[100 Daily/2023-05-23\|2023-05-23]]
+[微博正文](http://weibo.com/1736988591/N1XdQCj5S) 发博([[300 Events/304 Others/iQOO\|iQOO]]Neo8)
+[微博正文](http://weibo.com/6960161079/N1XgH6qj4) [[300 Events/304 Others/iQOO\|iQOO]]-签名照抽奖
+[微博正文](http://weibo.com/6378846558/N1Xc1anQB) iQOO联络站-酷玩大师桌面立牌抽奖
 <-->
