@@ -17,6 +17,7 @@
 - [[200 Songs/触不可及\|触不可及]]
 - [[200 Songs/铃芽之旅\|铃芽之旅]]
 
+{ .block-language-dataview}
 
 ---
 
