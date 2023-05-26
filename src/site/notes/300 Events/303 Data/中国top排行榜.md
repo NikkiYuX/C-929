@@ -8,6 +8,7 @@
 - [[100 Daily/2022-06-21\|2022-06-21]]
 - [[200 Songs/有我\|有我]]
 
+{ .block-language-dataview}
 
 ---
 
