@@ -10,6 +10,7 @@
 - [[100 Daily/2022-10-19\|2022-10-19]]
 - [[200 Songs/随风\|随风]]
 
+{ .block-language-dataview}
 
 ---
 
