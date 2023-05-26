@@ -7,6 +7,7 @@
 ## Linked Mentions
 - [[100 Daily/2022-07-01\|2022-07-01]]
 
+{ .block-language-dataview}
 
 ---
 
