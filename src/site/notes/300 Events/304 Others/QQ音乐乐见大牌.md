@@ -8,6 +8,7 @@
 - [[100 Daily/2018-12-29\|2018-12-29]]
 - [[400 Topics/拍立得\|拍立得]]
 
+{ .block-language-dataview}
 
 ---
 
