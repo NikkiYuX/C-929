@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Heart Of Peace","permalink":"/Heart Of Peace/","created":"2023-04-26T14:58:18.000+08:00","updated":"2023-04-26T15:03:58.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/Heart Of Peace","permalink":"/Heart Of Peace/","created":"2023-04-26T14:58:18.000+08:00","updated":"2023-05-26T09:58:06.263+08:00"}
 ---
 
 # Heart Of Peace
@@ -13,7 +13,13 @@
 - [[100 Daily/2023-05-04\|2023-05-04]]
 - [[100 Daily/2023-05-06\|2023-05-06]]
 - [[100 Daily/2023-05-08\|2023-05-08]]
+- [[100 Daily/2023-05-24\|2023-05-24]]
+- [[300 Events/303 Data/QQ音乐MV巅峰榜\|QQ音乐MV巅峰榜]]
+- [[300 Events/303 Data/华语音乐打歌中心\|华语音乐打歌中心]]
+- [[300 Events/303 Data/腾讯音乐由你榜\|腾讯音乐由你榜]]
+- [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
+{ .block-language-dataview}
 
 ---
 
@@ -22,6 +28,10 @@ path:"100 Daily" /.*\[\[Heart Of Peace\]\].*(?:\r?\n(?!\r?\n).*)*/
 ## [[$filename]]
 $match
 ```
+## [[100 Daily/2023-02-24\|2023-02-24]]
+  - 录音 《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+---
+《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》录音
 ## [[100 Daily/2023-04-24\|2023-04-24]]
 新歌《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
 [微博正文](http://weibo.com/5248300719/MDqvrwat1) 官后预告
@@ -62,4 +72,19 @@ MV
 [网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fh5.nf.migu.cn%2Fapp%2Fv4%2Fp%2Fshare%2Fsong%2Findex.html%3Fid%3D600919000009346166) 咪咕音乐
 MV单链
 [新浪音乐的微博视频](https://video.weibo.com/show?fid=1034:4894429862101008)
+## [[100 Daily/2023-04-26\|2023-04-26]]
+[微博正文](https://weibo.com/2169129705/4894746214662950) QQ音乐新歌首发-《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+[微博正文](https://weibo.com/7352401092/4894437744052242) 《Heart Of Peace》录音花絮照
+[微博正文](https://weibo.com/7718639015/4894800191688978) 《Heart Of Peace》MV服饰-STAFFONLY
+## [[100 Daily/2023-05-01\|2023-05-01]]
+[微博正文](http://weibo.com/6733257358/MEwd80E8r) [[300 Events/303 Data/腾讯音乐由你榜\|腾讯音乐由你榜]]本周冠军《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+[微博正文](http://weibo.com/6559763622/MEyl7lTW5) 摄影师分享《[[200 Songs/Heart Of Peace\|heart of peace]]》录制花絮
+## [[100 Daily/2023-05-04\|2023-05-04]]
+[微博正文](https://weibo.com/6733257358/MF0Ut8zO5) [[300 Events/303 Data/腾讯音乐由你榜\|腾讯音乐由你榜]]17期《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》首次夺冠
+## [[100 Daily/2023-05-06\|2023-05-06]]
+[微博正文](http://weibo.com/7186370005/MFikVF7ke) [[300 Events/303 Data/华语音乐打歌中心\|华语音乐打歌中心]]-推荐第68期新歌 《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+## [[100 Daily/2023-05-08\|2023-05-08]]
+[微博正文](http://weibo.com/2169129705/MFzMjoHxd) [[300 Events/303 Data/QQ音乐MV巅峰榜\|QQ音乐MV巅峰榜]]第207期 内地榜TOP1《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+## [[100 Daily/2023-05-24\|2023-05-24]]
+🌟《[[200 Songs/Heart Of Peace\|Heart of Peace]]》资讯汇总 [微博正文](https://weibo.com/6466290670/4904856781064318)
 <-->
