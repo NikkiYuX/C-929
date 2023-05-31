@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-05-26T09:56:36.969+08:00"}
+{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-05-31T16:03:53.172+08:00"}
 ---
 
 # iQOO
@@ -89,6 +89,10 @@
 - [[100 Daily/2023-04-21\|2023-04-21]]
 - [[100 Daily/2023-04-25\|2023-04-25]]
 - [[100 Daily/2023-05-23\|2023-05-23]]
+- [[100 Daily/2023-05-25\|2023-05-25]]
+- [[100 Daily/2023-05-26\|2023-05-26]]
+- [[100 Daily/2023-05-29\|2023-05-29]]
+- [[100 Daily/2023-05-30\|2023-05-30]]
 - [[300 Events/304 Others/出道8周年\|出道8周年]]
 - [[300 Events/302 Shows/天赐的声音\|天赐的声音]]
 - [[300 Events/304 Others/时尚先生\|时尚先生]]
@@ -334,4 +338,22 @@ $match
 [微博正文](http://weibo.com/1736988591/N1XdQCj5S) 发博([[300 Events/304 Others/iQOO\|iQOO]]Neo8)
 [微博正文](http://weibo.com/6960161079/N1XgH6qj4) [[300 Events/304 Others/iQOO\|iQOO]]-签名照抽奖
 [微博正文](http://weibo.com/6378846558/N1Xc1anQB) iQOO联络站-酷玩大师桌面立牌抽奖
+## [[100 Daily/2023-05-25\|2023-05-25]]
+[查看图片](https://wx3.sinaimg.cn/large/0088n2Pggy1heaw8rw3opj30tt1hugpm.jpg) 抖音更新 [[300 Events/304 Others/iQOO\|iQOO]]
+## [[100 Daily/2023-05-26\|2023-05-26]]
+[[300 Events/304 Others/iQOO\|iQOO]]天猫星愿官活动：
+[微博正文](http://weibo.com/1768198384/N2ledwgIH) 天猫 星愿官活动海报
+[微博正文](http://weibo.com/7478855230/N2nPQluo7) 工作室 星愿官口播+iQOO直播预约链接
+[微博正文](http://weibo.com/6378846558/N2nZsjJke) iQOO联络站 星愿官活动介绍
+## [[100 Daily/2023-05-29\|2023-05-29]]
+[微博正文](http://weibo.com/1736988591/N2PfCnPJE) 发博([[300 Events/304 Others/iQOO\|iQOO]])
+[查看图片](https://wx3.sinaimg.cn/large/0088n2Pggy1hefn1yy3g9j30tt1hu791.jpg) 抖音更新
+[[300 Events/304 Others/iQOO\|iQOO]]
+[微博正文](https://weibo.com/6466290670/N2Pma5uQT) iQOO手机 B/站互动赢签名照
+[微博正文](http://weibo.com/6960161079/N2Pl8vgy8) iQOO手机 新机及签名照抽奖
+[微博正文](http://weibo.com/6960161079/N2NBOnuAy) iQOO手机 签名照抽奖
+## [[100 Daily/2023-05-30\|2023-05-30]]
+[[300 Events/304 Others/iQOO\|iQOO]]
+[微博正文](http://weibo.com/6960161079/N2XvNavVA) iQOO手机 0602直播预告
+[微博正文](http://weibo.com/6378846558/N2XO6p1E6) iQOO联络站 星愿成真事务所口播
 <-->
