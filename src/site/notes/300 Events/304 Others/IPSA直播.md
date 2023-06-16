@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/IPSA直播","permalink":"/IPSA直播/","title":"IPSA直播","tags":[null],"created":"2022-11-08T23:39:07.000+08:00","updated":"2023-05-31T16:04:14.819+08:00"}
+{"dg-publish":true,"dg-permalink":"/IPSA直播","permalink":"/IPSA直播/","title":"IPSA直播","tags":[null],"created":"2022-11-08T23:39:07.000+08:00","updated":"2023-06-16T16:36:19.411+08:00"}
 ---
 
 # IPSA直播
@@ -15,6 +15,8 @@
 - [[100 Daily/2022-12-17\|2022-12-17]]
 - [[100 Daily/2023-05-29\|2023-05-29]]
 - [[100 Daily/2023-05-30\|2023-05-30]]
+- [[100 Daily/2023-06-10\|2023-06-10]]
+- [[100 Daily/2023-06-14\|2023-06-14]]
 - [[300 Events/304 Others/IPSA\|IPSA]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
@@ -67,4 +69,8 @@ $match
 [微博正文](http://weibo.com/6404591614/N2S5AgJyC) 饰品品牌-Crazy-rhythmm
 ## [[100 Daily/2023-05-30\|2023-05-30]]
 [微博正文](http://weibo.com/7478855230/N2WPYtjdZ) 工作室 0529[[300 Events/304 Others/IPSA直播\|IPSA直播]]造型图
+## [[100 Daily/2023-06-10\|2023-06-10]]
+[微博正文](http://weibo.com/3123996041/N4Fw1kgh7) [[300 Events/304 Others/IPSA直播\|IPSA直播]] 路人合照2P
+## [[100 Daily/2023-06-14\|2023-06-14]]
+[微博正文](http://weibo.com/1851789841/N5fmZ3nsm) [[300 Events/304 Others/IPSA直播\|IPSA直播]]间表情包cut
 <-->
