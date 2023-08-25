@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/全民K歌","permalink":"/全民K歌/","title":"全民K歌","tags":[null],"created":"2022-11-09T02:26:34.000+08:00","updated":"2023-04-10T16:59:14.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/全民K歌","permalink":"/全民K歌/","title":"全民K歌","tags":[null],"created":"2022-11-09T02:26:34.000+08:00","updated":"2023-08-24T19:29:44.635+08:00"}
 ---
 
 # 全民K歌
