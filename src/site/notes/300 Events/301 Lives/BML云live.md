@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/BML云live","permalink":"/BML云live/","created":"2023-04-06T19:47:27.000+08:00","updated":"2023-04-10T16:13:35.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/BML云live","permalink":"/BML云live/","created":"2023-04-06T19:47:27.000+08:00","updated":"2023-08-24T18:39:41.619+08:00"}
 ---
 
 # BML云live
@@ -39,9 +39,6 @@ $match
 ✨[[300 Events/301 Lives/BML云live\|BML云live]]谢幕环节 [微博正文](https://m.weibo.cn/6466290670/4530905480174173)
 ## [[100 Daily/2020-07-29\|2020-07-29]]
 ✨[[300 Events/301 Lives/BML云live\|BML云live]]《unravel》
-- 原唱翻牌[微博正文](https://m.weibo.cn/6466290670/4532109501007662)
-- BML制作分享[微博正文](https://m.weibo.cn/6466290670/4532073904481523)
-
 ## [[100 Daily/2020-08-12\|2020-08-12]]
 💫[[300 Events/301 Lives/BML云live\|BML云live]] 节目总结[微博正文](https://m.weibo.cn/6466290670/4537207249973759)
 ## [[100 Daily/2020-10-25\|2020-10-25]]
