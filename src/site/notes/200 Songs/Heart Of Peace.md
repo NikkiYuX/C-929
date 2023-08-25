@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Heart Of Peace","permalink":"/Heart Of Peace/","created":"2023-04-26T14:58:18.000+08:00","updated":"2023-05-26T09:58:06.263+08:00"}
+{"dg-publish":true,"dg-permalink":"/Heart Of Peace","permalink":"/Heart Of Peace/","created":"2023-04-26T14:58:18.000+08:00","updated":"2023-08-24T17:51:13.363+08:00"}
 ---
 
 # Heart Of Peace
@@ -88,4 +88,7 @@ MV单链
 [微博正文](http://weibo.com/2169129705/MFzMjoHxd) [[300 Events/303 Data/QQ音乐MV巅峰榜\|QQ音乐MV巅峰榜]]第207期 内地榜TOP1《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
 ## [[100 Daily/2023-05-24\|2023-05-24]]
 🌟《[[200 Songs/Heart Of Peace\|Heart of Peace]]》资讯汇总 [微博正文](https://weibo.com/6466290670/4904856781064318)
+## [[100 Daily/2023-06-05\|2023-06-05]]
+[微博正文](https://weibo.com/7779932378/N3ToE9GIQ) 东方风云榜第1540期冠军《[[200 Songs/Heart Of Peace\|Heart Of Peace]]》
+[微博正文](http://weibo.com/7779932378/N3W4wdApd) 东方风云榜1540期周榜冠军荣登上海地标大屏城市之窗
 <-->
