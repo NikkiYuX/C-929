@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/CCTV3了不起的歌","permalink":"/CCTV3了不起的歌/","title":"CCTV3《了不起的歌》","tags":[null],"created":"2022-11-09T02:25:01.000+08:00","updated":"2023-04-10T16:52:27.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/CCTV3了不起的歌","permalink":"/CCTV3了不起的歌/","title":"CCTV3《了不起的歌》","tags":[null],"created":"2022-11-09T02:25:01.000+08:00","updated":"2023-08-24T19:22:02.590+08:00"}
 ---
 
 # CCTV3《了不起的歌》
