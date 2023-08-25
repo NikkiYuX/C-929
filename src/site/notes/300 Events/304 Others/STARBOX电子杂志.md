@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/STARBOX电子杂志","permalink":"/STARBOX电子杂志/","created":"2023-03-24T16:45:25.000+08:00","updated":"2023-04-10T16:55:23.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/STARBOX电子杂志","permalink":"/STARBOX电子杂志/","created":"2023-03-24T16:45:25.000+08:00","updated":"2023-08-24T19:24:58.593+08:00"}
 ---
 
 # STARBOX电子杂志
@@ -14,6 +14,7 @@
 - [[100 Daily/2019-07-12\|2019-07-12]]
 - [[100 Daily/2019-09-27\|2019-09-27]]
 - [[100 Daily/2019-09-28\|2019-09-28]]
+- [[300 Events/304 Others/精美JSTYLE\|精美JSTYLE]]
 
 { .block-language-dataview}
 
