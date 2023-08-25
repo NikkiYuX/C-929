@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/ELLE杂志","permalink":"/ELLE杂志/","created":"2023-04-02T13:20:52.000+08:00","updated":"2023-04-10T16:53:11.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/ELLE杂志","permalink":"/ELLE杂志/","created":"2023-04-02T13:20:52.000+08:00","updated":"2023-08-24T19:22:46.575+08:00"}
 ---
 
 # ELLE杂志
