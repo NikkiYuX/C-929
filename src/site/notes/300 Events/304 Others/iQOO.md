@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-05-31T16:03:53.172+08:00"}
+{"dg-publish":true,"dg-permalink":"/iQOO","permalink":"/iQOO/","title":"iQOO","tags":[null],"created":"2022-11-08T23:38:30.000+08:00","updated":"2023-08-24T19:23:30.599+08:00"}
 ---
 
 # iQOO
@@ -96,6 +96,9 @@
 - [[100 Daily/2023-06-02\|2023-06-02]]
 - [[100 Daily/2023-06-05\|2023-06-05]]
 - [[100 Daily/2023-06-06\|2023-06-06]]
+- [[100 Daily/2023-07-10\|2023-07-10]]
+- [[100 Daily/2023-07-21\|2023-07-21]]
+- [[100 Daily/2023-07-25\|2023-07-25]]
 - [[300 Events/304 Others/出道8周年\|出道8周年]]
 - [[300 Events/302 Shows/天赐的声音\|天赐的声音]]
 - [[300 Events/304 Others/时尚先生\|时尚先生]]
@@ -359,4 +362,22 @@ $match
 [[300 Events/304 Others/iQOO\|iQOO]]
 [微博正文](http://weibo.com/6960161079/N2XvNavVA) iQOO手机 0602直播预告
 [微博正文](http://weibo.com/6378846558/N2XO6p1E6) iQOO联络站 星愿成真事务所口播
+## [[100 Daily/2023-06-02\|2023-06-02]]
+[[300 Events/304 Others/iQOO\|iQOO]]
+ [iQOO](https://weibo.cn/sinaurl?u=http%3A%2F%2Fweibo.com%2F6466290670%2FN3tPH71nX) 直播间出题视频
+## [[100 Daily/2023-06-05\|2023-06-05]]
+[微博正文](http://weibo.com/7633014126/N3WvOsfww) [[300 Events/304 Others/iQOO\|iQOO]]广告工作人员合照
+
+## [[100 Daily/2023-06-06\|2023-06-06]]
+[[300 Events/304 Others/iQOO\|iQOO]]
+[微博正文](https://weibo.com/6378846558/N42Wea40X) iQOO联络站 明信片抽奖1
+[微博正文](https://weibo.com/6378846558/N43pvzElR) iQOO联络站 明信片抽奖2
+[微博正文](https://weibo.com/6378846558/N43IzzWRN) iQOO联络站 签名照抽奖1
+[微博正文](http://weibo.com/6378846558/N42M7mlpJ) iQOO联络站 签名照抽奖2
+## [[100 Daily/2023-07-10\|2023-07-10]]
+[微博正文](http://weibo.com/6466290670/N9eNjywJz) [[300 Events/304 Others/iQOO\|iQOO]]福利社 新签抽奖(7.27开)
+## [[100 Daily/2023-07-21\|2023-07-21]]
+[微博正文](http://weibo.com/6960161079/NaREu64gE) [[300 Events/304 Others/iQOO\|iQOO]]手机 签名照+iQOO TWS1 抽奖
+## [[100 Daily/2023-07-25\|2023-07-25]]
+[微博正文](https://weibo.com/6378846558/NbuPAp8LK) [[300 Events/304 Others/iQOO\|iQOO]]同款手机抽奖
 <-->
