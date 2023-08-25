@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/中国歌曲TOP排行榜颁奖晚会","permalink":"/中国歌曲TOP排行榜颁奖晚会/","created":"2023-04-08T20:55:30.000+08:00","updated":"2023-04-10T16:16:20.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/中国歌曲TOP排行榜颁奖晚会","permalink":"/中国歌曲TOP排行榜颁奖晚会/","created":"2023-04-08T20:55:30.000+08:00","updated":"2023-08-24T18:42:37.571+08:00"}
 ---
 
 # 中国歌曲TOP排行榜颁奖晚会
