@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Bilibili 2022最美的夜跨年晚会","permalink":"/Bilibili 2022最美的夜跨年晚会/","title":"Bilibili 2022最美的夜跨年晚会","created":"2022-12-21T10:12:46.000+08:00","updated":"2023-06-16T16:36:29.963+08:00"}
+{"dg-publish":true,"dg-permalink":"/Bilibili 2022最美的夜跨年晚会","permalink":"/Bilibili 2022最美的夜跨年晚会/","title":"Bilibili 2022最美的夜跨年晚会","created":"2022-12-21T10:12:46.000+08:00","updated":"2023-08-24T18:39:30.599+08:00"}
 ---
 
 # Bilibili 2022最美的夜跨年晚会
@@ -31,6 +31,9 @@
 - [[100 Daily/2023-03-15\|2023-03-15]]
 - [[100 Daily/2023-04-07\|2023-04-07]]
 - [[100 Daily/2023-06-14\|2023-06-14]]
+- [[100 Daily/2023-07-12\|2023-07-12]]
+- [[100 Daily/2023-07-16\|2023-07-16]]
+- [[100 Daily/2023-07-18\|2023-07-18]]
 - [[Publish/资讯站盘点总结汇总\|资讯站盘点总结汇总]]
 
 { .block-language-dataview}
@@ -163,4 +166,11 @@ $match
 ## [[100 Daily/2023-06-14\|2023-06-14]]
 [微博正文](http://weibo.com/2891278372/N5icuz2mz) [[300 Events/301 Lives/Bilibili 2022最美的夜跨年晚会\|Bilibili 2022最美的夜跨年晚会]]花絮(xhs)
 
+## [[100 Daily/2023-07-12\|2023-07-12]]
+[微博正文](https://weibo.com/6083110602/N9wqwlHdn) xhs [[300 Events/301 Lives/Bilibili 2022最美的夜跨年晚会\|Bilibili 2022最美的夜跨年晚会]]合照花絮
+
+## [[100 Daily/2023-07-16\|2023-07-16]]
+[微博正文](http://weibo.com/7408066931/Na7lauFCG) 广电总局优秀网络视听作品展播-[[300 Events/301 Lives/Bilibili 2022最美的夜跨年晚会\|Bilibili 2022最美的夜跨年晚会]]
+## [[100 Daily/2023-07-18\|2023-07-18]]
+[微博正文](http://weibo.com/7495641082/NarSgDDe9) xhs综艺宣发打工人 [[300 Events/301 Lives/Bilibili 2022最美的夜跨年晚会\|Bilibili 2022最美的夜跨年晚会]]花絮
 <-->
