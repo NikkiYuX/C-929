@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/央广MusicRadio音乐之声·中国TOP排行榜全国巡演·北京站","permalink":"/央广MusicRadio音乐之声·中国TOP排行榜全国巡演·北京站/","created":"2023-03-28T15:07:49.000+08:00","updated":"2023-04-10T16:19:38.000+08:00"}
+{"dg-publish":true,"dg-permalink":"/央广MusicRadio音乐之声·中国TOP排行榜全国巡演·北京站","permalink":"/央广MusicRadio音乐之声·中国TOP排行榜全国巡演·北京站/","created":"2023-03-28T15:07:49.000+08:00","updated":"2023-08-24T18:46:28.609+08:00"}
 ---
 
 # 央广MusicRadio音乐之声·中国TOP排行榜全国巡演·北京站
