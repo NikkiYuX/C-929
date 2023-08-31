@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/Billboard中国8月封面人物","permalink":"/Billboard中国8月封面人物/","created":"2023-08-23T19:02:20.548+08:00","updated":"2023-08-24T19:21:18.625+08:00"}
+{"dg-publish":true,"dg-permalink":"/Billboard中国8月封面人物","permalink":"/Billboard中国8月封面人物/","created":"2023-08-23T19:02:20.548+08:00","updated":"2023-08-31T02:00:23.007+08:00"}
 ---
 
 # Billboard中国8月封面人物
@@ -7,6 +7,7 @@
 ## Linked Mentions
 - [[100 Daily/2023-08-17\|2023-08-17]]
 - [[100 Daily/2023-08-18\|2023-08-18]]
+- [[100 Daily/2023-08-30\|2023-08-30]]
 
 { .block-language-dataview}
 
@@ -31,4 +32,8 @@ $match
 [微博正文](http://weibo.com/3276035885/Nf2jhbqZZ) N·MORE 同款西装及品牌产品抽奖
 ## [[100 Daily/2023-08-18\|2023-08-18]]
 [微博正文](http://weibo.com/5725330925/Nfan09Cst) [[300 Events/304 Others/Billboard中国8月封面人物\|Billboard中国8月封面人物]] 封面故事服装品牌-PRONOUNCE_
+## [[100 Daily/2023-08-30\|2023-08-30]]
+[[300 Events/304 Others/Billboard中国8月封面人物\|Billboard中国8月封面人物]]
+[微博正文](http://weibo.com/7747130271/NgYjL0uzM) Billboard 口播
+[微博正文](http://weibo.com/6942005641/NgYuM6G6h) Billboard 口播衬衫品牌
 <-->
