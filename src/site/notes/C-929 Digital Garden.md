@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/C-929 Digital Garden/","tags":["gardenEntry"],"dgShowLocalGraph":true,"created":"2022-11-25T17:22:03.000+08:00","updated":"2023-09-01T00:20:09.052+08:00"}
+{"dg-publish":true,"permalink":"/C-929 Digital Garden/","tags":["gardenEntry"],"dgShowLocalGraph":true,"created":"2022-11-25T17:22:03.000+08:00","updated":"2023-09-01T16:39:01.071+08:00"}
 ---
 
 # C-929 Digital Garden
 
+> ❗❗❗
+> 此网址已暂时停用，新网址为"[https://publish.obsidian.md/c929](https://publish.obsidian.md/c929)"
+
 > ❗试运行
 > 本质仅仅是个人小笔记，不保证准确，仅用于保存链接形式资讯，浏览图文视频类存档资讯请回到 **[C-929 Database](https://c929-song.super.site/)** 。
 > 右上角搜索暂不支持中文搜索，如果想要查找具体歌曲或者活动条目请点击目录页后使用网页自带全局搜索。
-- Last Updated on 2023-09-01 12:20 AM 
+- Last Updated on 2023-09-01 04:39 PM 
 
 { .block-language-dataview}
 ---
@@ -20,7 +23,7 @@
 
 ## ✨ [[Publish/年度行程/2023行程\|2023行程]]｜✨ [[Publish/年度行程/2022行程\|2022行程]]
 
-### [[Publish/当年今日 发布记录\|✨ 当年今日记录存档]]
+## [[Publish/当年今日 发布记录\|✨ 当年今日记录存档]]
 
 ---
 
